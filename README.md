@@ -1,5 +1,4 @@
-# <p align="center">Three Widgets Activity - Atividade de PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS E SISTEMAS EMBARCADOS</p>
-
+# <p align="center">Three Widgets Activity - Atividade de Programação para Dispositivos Móveis e Sistemas Embarcados</p>
  <p align="center">
  <img src="https://img.shields.io/github/issues/dawidoliveira/three-widgets-activity?style=for-the-badge"/>
  <img src="https://img.shields.io/github/forks/dawidoliveira/three-widgets-activity?style=for-the-badge"/>

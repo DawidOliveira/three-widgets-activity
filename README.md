@@ -24,6 +24,10 @@ Foram utilizados 3 widgets de uma lista passada para mostrar como eles funcionam
 - AnimatedContainer
 - FittedBox
 
+## ✅ Gerenciamento de Estado
+
+Foi utilizado somente o setState para fazer uma mini animação num tipo de splash screen.
+
 ## ✅ Dependências do Projeto
 
 - cupertino_icons: ^1.0.2
